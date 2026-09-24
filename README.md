@@ -52,12 +52,6 @@ The repository intentionally does not publish password hashes, recovered credent
 
 Program Information
 
-**Program:** Networkwalks Cybersecurity Internship  
-**Batch:** B083  
-**Week:** 3  
-**Focus:** Password Cracking  
-**Participant:** Dan Ngechu
 
----
 
-*This repository is maintained for educational and cybersecurity training purposes.*
+
