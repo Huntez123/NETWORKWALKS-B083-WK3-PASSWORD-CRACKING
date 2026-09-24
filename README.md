@@ -50,7 +50,7 @@ Practical evidence was collected during the laboratory exercises and retained se
 
 The repository intentionally does not publish password hashes, recovered credentials, or protected training files.
 
-Program Information
+
 
 
 
